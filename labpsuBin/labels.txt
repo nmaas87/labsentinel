@@ -1,0 +1,7 @@
+errorFive
+errorOverCurrent
+errorOverTemperature
+errorOverVoltage
+errorThree
+errorTwelve
+ok

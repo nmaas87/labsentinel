@@ -1,0 +1,12 @@
+C:\Users\Nico Maas\source\repos\LabDeviceControlSoftware\LabDeviceControlSoftware\bin\Release\LabDeviceControlSoftware.exe.config
+C:\Users\Nico Maas\source\repos\LabDeviceControlSoftware\LabDeviceControlSoftware\bin\Release\LabDeviceControlSoftware.exe
+C:\Users\Nico Maas\source\repos\LabDeviceControlSoftware\LabDeviceControlSoftware\bin\Release\LabDeviceControlSoftware.pdb
+C:\Users\Nico Maas\source\repos\LabDeviceControlSoftware\LabDeviceControlSoftware\bin\Release\LabDeviceControlSoftware.xml
+C:\Users\Nico Maas\source\repos\LabDeviceControlSoftware\LabDeviceControlSoftware\obj\Release\LabDeviceControlSoftware.Form1.resources
+C:\Users\Nico Maas\source\repos\LabDeviceControlSoftware\LabDeviceControlSoftware\obj\Release\LabDeviceControlSoftware.Resources.resources
+C:\Users\Nico Maas\source\repos\LabDeviceControlSoftware\LabDeviceControlSoftware\obj\Release\LabDeviceControlSoftware.vbproj.GenerateResource.cache
+C:\Users\Nico Maas\source\repos\LabDeviceControlSoftware\LabDeviceControlSoftware\obj\Release\LabDeviceControlSoftware.vbproj.CoreCompileInputs.cache
+C:\Users\Nico Maas\source\repos\LabDeviceControlSoftware\LabDeviceControlSoftware\obj\Release\LabDeviceControlSoftware.exe
+C:\Users\Nico Maas\source\repos\LabDeviceControlSoftware\LabDeviceControlSoftware\obj\Release\LabDeviceControlSoftware.xml
+C:\Users\Nico Maas\source\repos\LabDeviceControlSoftware\LabDeviceControlSoftware\obj\Release\LabDeviceControlSoftware.pdb
+C:\Users\Nico Maas\source\repos\LabDeviceControlSoftware\LabDeviceControlSoftware\obj\Release\LabDeviceControlSoftware.vbprojAssemblyReference.cache
