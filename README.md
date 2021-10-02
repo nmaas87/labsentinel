@@ -8,8 +8,6 @@ Working in the Aerospace Industry - with additional roots in Material Sciences a
 
 NVIDIA Jetson is the ideal and cost-effective solution for this problem: Attaching an HDMI Grabber including necessary adapters (e.g. for VGA or DVI outputs of the lab equipment) allows to train a classification model which can recognize "good" and "bad" states and then alert supervisor - or even turn off power supply to the equipment if something goes really wrong. The best use of such a solution is however in combination with a technician to lessen the workload and allow for more effective usage of human resources.
 
-[Overview](overview.png)
-
 <p align="center">
   <img width="600" src="overview.png">
 </p>
@@ -18,21 +16,21 @@ NVIDIA Jetson is the ideal and cost-effective solution for this problem: Attachi
 
 ## Proof of concept
 
+Youtube Demo: https://youtu.be/PYgAdH4YiLw
+
 ### Needed hardware / software
 
 - NVIDIA Jetson Nano 2 GB/4 GB with powersupply
 - Videograbber
     - either one of the cheap "HDMI Video Capture" USB cards from china
     - or one of the better devices with pass-through for the monitor signal (e.g. Elgato and similar)
-- 
+- Jetson Jetpack
+- Jeton Inference
 
 
 ### LabDeviceControlSoftware / Demo GUI
 
 No idea without a proof of concept, for this use-case I designed a small program called "LabDeviceControlSoftware". It was written in VB.Net (Visual Studio 2019) to have a more faithful recreation of the old softwares look and feel. The source code is included in the LabDeviceControlSoftware/ folder
-
-
-[LabDeviceControlSoftware](demosoftware.png)
 
 <p align="center">
   <img width="700" src="demosoftware.png">
@@ -150,5 +148,3 @@ python3 imagenetplus.py --headless /dev/video0
 
 ## Conclusion
 This project showcased the overall feasibility of automated supervision of old lab equipment using NVIDIA Jetson and its AI capabilities
-
-Youtube Demo: https://youtu.be/PYgAdH4YiLw
